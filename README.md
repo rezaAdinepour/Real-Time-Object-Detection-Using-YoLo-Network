@@ -3,4 +3,4 @@
 
 ![image](Images/1.png)
 
-This project is part of my [presentation]() in the Neural Networks course at [Shahrood University of Technology](https://shahroodut.ac.ir/en/)
+This project is part of my [presentation](https://github.com/rezaAdinepour/Real-Time-Object-Detection-Using-YoLoV4-Network/blob/main/YOLO-Presentation.pdf) in the Neural Networks course at [Shahrood University of Technology](https://shahroodut.ac.ir/en/)

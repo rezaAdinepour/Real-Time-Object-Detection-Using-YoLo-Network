@@ -14,3 +14,5 @@ This project is part of my [presentation](https://github.com/rezaAdinepour/Real-
 
 # Example for offline method
 ![image](Images/3.png)
+
+You can read file of this presentation [here](https://github.com/rezaAdinepour/Real-Time-Object-Detection-Using-YoLoV4-Network/blob/main/YOLO-Presentation.pdf)
